@@ -1,0 +1,25 @@
+
+.box img{
+    display: none !important;
+   
+}
+img{
+    width: 50% !important;
+    height: auto !important;
+
+}
+
+button{
+    margin: 25px !important;
+    padding: 10px !important;
+    width: 125px !important;
+    font-weight: bold !important;
+}
+
+body{
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+}
